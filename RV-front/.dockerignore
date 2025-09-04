@@ -1,0 +1,13 @@
+.git
+.gitignore
+README.md
+README_API.md
+Dockerfile
+.dockerignore
+__pycache__
+.pytest_cache
+.coverage
+.env
+.venv
+venv/
+.DS_Store

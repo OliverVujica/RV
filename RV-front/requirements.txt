@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+motor
+pydantic
+python-multipart
+passlib
+pyjwt
+torch
+torchvision
+Pillow
+python-jose
+email-validator
+bcrypt
